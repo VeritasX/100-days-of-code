@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: January 4th, 2017 
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Created two methods in a library designed to help in the creation of quizes or tests.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I found that sometimes i need to be less clever when writing code and stick to the simplest answer to the solution, I had trouble at first getting one of the methods to work, until i realized i was overthinking the solution and changed to a simpler pattern
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [Quiz Creator](https://github.com/VeritasX/Quiz-Creator/commit/e4b7cdad07ae5b65ffd10d199823dcb31a4dc3ac)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
